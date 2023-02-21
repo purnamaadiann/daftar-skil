@@ -7,3 +7,11 @@
 -sejarah indonesia
 -penjaskes
 dan lain-lain
+
+++ skill yang diperoleh dirucom++
+-Mengetik 10 jari
+-Freecodecam.org responsive web desain (HTML,CSS,HAND, JavaScript)
+-VisualStudioCode
+-Crimping kabel UTP
+-Sololearn (introduction to html, JQuery, introduction, JavaScript, Coding for Marketers, Introduction to css, Responsive web desain, web devalopment fundamentals)
+-Buat akun linkedin
